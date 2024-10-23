@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page oi</title>
+<style>
+	body { background-color:#C0C0C0; }
+	img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+	</style>
+
+
+	<link rel="icon" type="image/x-icon"  href="C:\laragon\www\Latihan 5D Baru\favicon_io\logo1.ico.ico">
+
+
+
+<body>
+
+<h1 style="color:red;">Kenapa One Piece Seru</h1>
+<h2>One Piece adalah.</p> </p>
+
+<img src="https://seeklogo.com/images/O/one-piece-mugiwara-flag-logo-08F872AFB6-seeklogo.com.png" alt="logo stray head">
+
+</body>
+
+<p style="background: rgb(30, 30, 30) ; color: #f8f8f8; text-align: justify; font-size: 16px; ">Dari cerita dimana terdapat sebuah harta yang belum di identifikasi jenis harta itu lalu dengan gairah akan mengetahui apa harta tersebut,ribuan bajak laut berlomba loma untuk mendapatkan harta tersebut sehingga hal ini menjadi incaran yang akan mengubah alur dunia yang bisa saja buruk dan bisa saja mengarah ke sesuatu yang baik, One Piece adalah komik asal jepang (manga) karya Eichiro Oda dengan banyak kejadian-kejadian yang terjadi di One Piece terjadi juga di dunia nyata. Sebagai pembaca saya berpikir bahwa komik ini memiliki kesan yang berbeda ketimbang komik dengan genre yang sama dengan komik ini yaitu shounen, yang menjadi pembeda dari semua komik shounen yaitu pembawaan pada cerita yang berbeda dengan memasukan banyak kejadian-kejadian dalam sejarah yang dibuat sedikit berbeda tetapi related dengan beberapa catatan sejarah yang berhasil diabadikan, contoh nya yaitu eksekusi Kozuki Oden yang rupanya ada ceriya sejarah nya (karena tidak mau spoiler maka baca sendiri ygy ).</p>
+<p style="background: rgb(30, 30, 30) ; color: #f8f8f8; text-align: justify; font-size: 16px; "> Saya belajar ini dari W3schools dan beberapa kali bertanya ke teman saya di kelas maupun dari teman lama yang ahli di bidang ini. tetapi semua input saya jalankan sendiri.</p>
+<body>
+
+<p>Here is a quote from offcial websites:</p>
+
+<blockquote cite=https://mangaplus.shueisha.co.jp/titles/100020 style="background: rgb(30, 30, 30) ; color: #f8f8f8; text-align: justify; font-size: 16px; ">>
+	As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer "Red-Haired" Shanks. But Luffy's life changed when he accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary "One Piece," said to be the greatest treasure in the world...
+
+<body>
+
+<!-- This is a comment -->
+<p>Yuk Kunjungi ini web.</p>
+<!-- Comments are not displayed in the browser -->
+
+
+
+
+<body>
+</html>
+
